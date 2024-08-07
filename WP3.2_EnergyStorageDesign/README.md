@@ -7,7 +7,7 @@ This repository provides code and corresponding explanations for identifying and
 - `data/`: Raw and processed data, and optimal ESS capcacity results.
 - `scripts/`: Python/Matlab scripts for data preprocessing, Optimization Problem Definition, and optimization.
 - `OptimizationAlgorithms/`: Search based optimization Algorithms(From Litertaure).
-- `docs/`: Documentation on methodology, results, and references.
+- `Docs/`: Documentation on methodology, results, and references.
 
 ## Getting Started
 1. Clone the repository.
