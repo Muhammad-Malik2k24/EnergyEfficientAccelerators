@@ -1,5 +1,7 @@
 # Work Package 3.2: Energy Storage Technologies
 
+![image](https://github.com/user-attachments/assets/bdddc103-be44-4611-8a07-a1a4e2e659ed)
+
 ## Overview
 This repository provides code and corresponding explanations for identifying and optimizing energy storage system(ESS) suitable for particle accelerators.
 
