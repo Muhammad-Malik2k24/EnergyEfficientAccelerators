@@ -1,5 +1,5 @@
 # Work Package 3.4: Renewable Energy Forecasting
-
+![image](https://github.com/user-attachments/assets/bf4592ad-4af5-422c-b28d-745ea6b7c532)
 ## Overview
 This repository provides code and corresponding documentation for Machine Learning models for forecasting the power production of solar power plant. 
 
